@@ -1,0 +1,5 @@
+a, b = input().split()
+x = int(a)
+y = int(b)
+b = bool(x == 1 or y == 1)
+print(int(b)) 
